@@ -77,14 +77,13 @@ body {
     background-color: #D9D9D9;
 }
 
-.footer,
 .push {
     height: 50px;
     background-color: #000000;
     color: white
 }
 
-.image2 {
+footer {
     width: 5%;
     text-align: center;
 }
